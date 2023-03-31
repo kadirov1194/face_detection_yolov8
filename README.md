@@ -2,13 +2,13 @@
 Face_detection_yolov8_ultralytics
 
 1. Install ultralytics  
-pip install ultralytics
+   pip install ultralytics
 
 2. Set dataset.yaml file with correct path
 
 
 3. import ultralytics
-   ultralytics.checks()
+          ultralytics.checks()
 
 
 4. Train the model
